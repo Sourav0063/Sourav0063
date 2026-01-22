@@ -10,7 +10,8 @@
 - 🌱 Currently learning **Microservices & Cloud (Azure)**
 - 🎯 Goal: Write clean, maintainable & efficient code
 
-- 🛠️ Tech Stack (With Icons)
+- 🛠️ Tech Stack
+- 
 💻 Backend
 <p align="left"> <img src="https://skillicons.dev/icons?i=dotnet" height="40"/> <img src="https://skillicons.dev/icons?i=cs" height="40"/> </p>
 
